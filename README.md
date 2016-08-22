@@ -7,6 +7,10 @@ Cooldowns:
 -----------
 
 160808YY160622p1_4KSweep_3dBBothPorts.h5 - Sweep taken using freqsweep with a 3dB attenuator on each port. Taken on 08/08/2016.
+      8/22/2016 Inspected and found bad ground wire-bonds. Remade.
+
+
+8/22/2016 wire bonded ground lines to eliminate slot mode.
 
 DC behavior
 -----------
